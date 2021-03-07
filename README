@@ -9,7 +9,7 @@ This project contains:
 1. Source code
 2. pom.xml file
 3. code-coverage.JPG
-4. 
+4. cyclomatic-complexity.JPG
 
 ## Implementation Details:
 NB This test will require you to be running Java 11 on your machine.
