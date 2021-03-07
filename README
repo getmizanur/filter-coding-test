@@ -14,7 +14,6 @@ This project contains:
 ## Implementation Details:
 NB This test will require you to be running Java 11 on your machine.
 
-## Story
 As a developer
 I need to be able to filter log extracts
  - by country
